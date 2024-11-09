@@ -23,6 +23,13 @@ h6 {
 }
 
 
+.bolder
+{
+  font-weight: 700;
+  text-decoration: underline;
+}
+
+
 .back-to-top {
   position: fixed;
   visibility: hidden;
